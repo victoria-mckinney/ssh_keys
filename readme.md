@@ -1,10 +1,10 @@
-### How to clone a Git repo using SSH:
+### How to clone a Git repo using SSH 
+###### **Date:** Mon-28-Oct-2024
+
 [My own Github repo](https://github.com/victoria-mckinney/ssh_keys)
 
 ##### [Gracious to the guidance provided in the linked article](https://graphite.dev/guides/git-clone-ssh-vs-https)
 
-### How to clone a Git repo using SSH 
-###### **Date:** Mon-28-Oct-2024
 
  *(optional)* [Create text file](https://hostman.com/tutorials/how-to-create-a-text-file-in-linux-terminal/) to store your keys (if necessary) in Terminal working directory: 
 
