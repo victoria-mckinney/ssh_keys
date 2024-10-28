@@ -19,7 +19,7 @@ You should see online instructions for a passphase etc, ie:
 
 > 
         
-        Enter file in which to save the key (~username/repo_folder_/ssh/id_edxxxxx): <filename>.txt
+        Enter file in which to save the key (ie Users/<useername>.ssh/id_edxxxxx): <filename>.txt
         Enter passphrase (empty for no passphrase): <passwordphrase>
         Enter same passphrase again: <passwordphrase>
         Your identification has been saved in <filename>.txt
