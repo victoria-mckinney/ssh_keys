@@ -27,7 +27,7 @@ You should see online instructions for a passphase etc, ie:
         The key fingerprint is:
         SHA256fdsfdsfssf:s6MNPlDRrB9cfl0suE7dfsfsfsdfsfsdfgoo9re+dHFuhwn87LVcFeewqewqwqLgNg
         The key's randomart image is:
-        +--[ED25519 256]--+
+        +--[EDXXXXX 256]--+
         |       o  o .o . |
         |      . o.oE. + o|
         |     . oS* = o ..|
