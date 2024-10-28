@@ -17,32 +17,31 @@ You should see online instructions for a passphase etc, ie:
 
 > 
         
-        Enter file in which to save the key (/Users/<username>/.ssh/id_ed25519): text.txt    
+        Enter file in which to save the key (~username/repo_folder_/ssh/id_edxxxxx): <filename>.txt
         Enter passphrase (empty for no passphrase): 
         Enter same passphrase again: 
-        Your identification has been saved in text.txt
-        Your public key has been saved in text.txt.pub
+        Your identification has been saved in <filename>.txt
+        Your public key has been saved in <filename>.txt.pub
         The key fingerprint is:
-        SHA256:s6MNPlDRrB9cfl0suE7goo9re+dHFuhwn87LVcFLgNg victoriamckinney@Victoria’s MacBook Air
+        SHA256fdsfdsfssf:s6MNPlDRrB9cfl0suE7dfsfsfsdfsfsdfgoo9re+dHFuhwn87LVcFeewqewqwqLgNg
         The key's randomart image is:
         +--[ED25519 256]--+
         |       o  o .o . |
         |      . o.oE. + o|
-        |       + + o o * |
-        |      o = = = o o|
         |     . oS* = o ..|
         |    . . .o. *  . |
         |     ..oo  =  .  |
         |     .++o...+.   |
         |     .==.o..o.   |
 
-If you open the *text.txt* file (or whatever you have named it): you will see something like the following:
+If you open the *<filename>.txt* file (or whatever you have named it): you will see something like the following:
 
         -----BEGIN OPENSSH PRIVATE KEY-----
         b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
         QyNTUxOQAAACCNY/+maty4mamQOcEOW31cExoZgjUakXw73PgJnbX5bAAAALCeAnvangJ7
-        2gAAAAtzc2gjdeufheuifhWQyNTUxOQAAACCNY/+maty4mamQOcEOW31cExoZgjUakXw73PgJnbX5bA
-        AAAEBNVQ6T5KCW7ZEzxNwhfwehRXAWP3Y1j/6Zq3LiZqZA5wQ5bfVwT
+        2gAAAAtzc2gjdeufheuifhWQyNTUxOQAAACCNY/+mafdfssty4mamQOcEOW31cExoZgjUakXw73PgJnbX5bA
         GhmCNRqRfDejhfewiuhfeiuAAAKXZpY3RvcmlhbWNraW5uZXlAVmljdG9yaWHigJlzIE1hY0
         Jvb2sgQWlyAQIDBA==
         -----END OPENSSH PRIVATE KEY-----
+
+
