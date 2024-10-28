@@ -8,7 +8,7 @@
 
  *(optional)* [Create text file](https://hostman.com/tutorials/how-to-create-a-text-file-in-linux-terminal/) to store your keys (if necessary) in Terminal working directory: 
 
-    >  touch text.txts
+    >  touch <filename>.txt
 
 In Terminal working directory:
 
@@ -20,8 +20,8 @@ You should see online instructions for a passphase etc, ie:
 > 
         
         Enter file in which to save the key (~username/repo_folder_/ssh/id_edxxxxx): <filename>.txt
-        Enter passphrase (empty for no passphrase): 
-        Enter same passphrase again: 
+        Enter passphrase (empty for no passphrase): <passwordphrase>
+        Enter same passphrase again: <passwordphrase>
         Your identification has been saved in <filename>.txt
         Your public key has been saved in <filename>.txt.pub
         The key fingerprint is:
