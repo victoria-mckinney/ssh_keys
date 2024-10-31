@@ -7,9 +7,9 @@
 
 > **PLEASE NOTE:** Since there is a public repo, there are no personally-identifiable elements associated with any repo metadata. 
 >
-
-
-> **MAKING CHANGES:** If you wish to recommend changes to the main branxh, please raise a [pull request](https://github.com/victoria-mckinney/ssh_keys/compare).
+> **MAKING CHANGES:** If you wish to recommend changes to the main branxh, please raise a [pull request](https://github.com/victoria-mckinneyssh_keys/compare).
+>
+> **ONCE SSH KEY IS IN USE:** If you run the command *ssh-keygen* once a key is already in use, **remember to update the corresponding key in [GitHub](https://github.com/settings/keys)** before you commit any more changes
 ----
 
 >  *(optional)* **[Create text file](https://hostman.com/tutorials/how-to-create-a-text-file-in-linux-terminal/) to store your keys (if necessary)** 
